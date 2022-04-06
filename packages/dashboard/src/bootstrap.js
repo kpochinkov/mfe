@@ -1,7 +1,7 @@
 import { createApp } from 'vue';
 import Dashboard from './components/Dashboard.vue';
 
-// Delete this (comment just to refresh action)
+// Delete this (comment just to refresh action).
 
 // Mount function to start up the app
 const mount = (el) => {
